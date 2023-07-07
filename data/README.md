@@ -120,6 +120,7 @@ categories[
             - the root link is [here](http://www.image-net.org/challenges/LSVRC/2012/downloads)
             - **WARNING**: after login for download you get redirected to the data for 2010, change the link to 2012
               (http://www.image-net.org/challenges/LSVRC/2012/downloads) before download!
+        - the data can also be downloaded from kaggle [https://www.kaggle.com/datasets/hmendonca/imagenet-1k-tfrecords-ilsvrc2012-part-0](https://www.kaggle.com/datasets/hmendonca/imagenet-1k-tfrecords-ilsvrc2012-part-0) & [https://www.kaggle.com/datasets/hmendonca/imagenet-1k-tfrecords-ilsvrc2012-part-1](https://www.kaggle.com/datasets/hmendonca/imagenet-1k-tfrecords-ilsvrc2012-part-1)
 - **customized coco data**
     - [full-dataset](https://owncloud.hpi.de/s/TRCzfvxwyHCRIQr)
 
